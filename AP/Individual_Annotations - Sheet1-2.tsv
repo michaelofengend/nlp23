@@ -1,0 +1,501 @@
+ID	Annotator	Label	Text
+1	coby	1	ordinary people A little advice about feelings kiddo; don't expect it always to tickle.
+1	Michael	1	ordinary people A little advice about feelings kiddo; don't expect it always to tickle.
+2	coby	0	the man who knew too much Tell him the lady who saved his life wants to speak to him.
+2	Michael	1	the man who knew too much Tell him the lady who saved his life wants to speak to him.
+3	coby	3	the world is not enough Flawless, and still so innocent, not such a whore in bed...
+3	Michael	4	the world is not enough Flawless, and still so innocent, not such a whore in bed...
+4	coby	4	death to smoochy I love when you do the Jiggy Ziggy dance!
+4	Michael	4	death to smoochy I love when you do the Jiggy Ziggy dance!
+5	coby	4	rear window Why don't I slip into something comfortable?
+5	Michael	3	rear window Why don't I slip into something comfortable?
+6	coby	5	punch-drunk love Do you wanna have sex?
+6	Michael	4	punch-drunk love Do you wanna have sex?
+7	coby	5	a nightmare on elm street I knew there was something about you I liked...
+7	Michael	3	a nightmare on elm street I knew there was something about you I liked...
+8	coby	0	twelve monkeys You are a total nutcase, completely deranged, delusional, paranoid. Your thought process is all fucked up. Your information train is jammed, man!
+8	Michael	0	twelve monkeys You are a total nutcase, completely deranged, delusional, paranoid. Your thought process is all fucked up. Your information train is jammed, man!
+9	coby	0	twelve monkeys You had a bullet from World War I in your leg, James! How did it get there?
+9	Michael	0	twelve monkeys You had a bullet from World War I in your leg, James! How did it get there?
+10	coby	3	twilight No one will surrender tonight, but I won't give in. I know what I want.
+10	Michael	3	twilight No one will surrender tonight, but I won't give in. I know what I want.
+11	coby	2	twilight You know, your mood swings are kinda giving me whiplash.
+11	Michael	2	twilight You know, your mood swings are kinda giving me whiplash.
+12	coby	1	twilight Look at you, huh?... You're ALIVE!
+12	Michael	2	twilight Look at you, huh?... You're ALIVE!
+13	coby	1	twilight Oh, still stubborn, aren't we? Is that what makes you so special to Edward?
+13	Michael	2	twilight Oh, still stubborn, aren't we? Is that what makes you so special to Edward?
+14	coby	0	twilight I'd rather die than to stay away from you.
+14	Michael	3	twilight I'd rather die than to stay away from you.
+15	coby	0	twilight Whoa whoa! Chillax! No feature!
+15	Michael	0	twilight Whoa whoa! Chillax! No feature!
+16	coby	3	twilight Beautiful. Very visually dynamic. I chose my stage well.
+16	Michael	2	twilight Beautiful. Very visually dynamic. I chose my stage well.
+17	coby	1	twilight Ah... you brought a snack.
+17	Michael	1	twilight Ah... you brought a snack.
+18	coby	1	twilight Maybe he'll adopt me.
+18	Michael	0	twilight Maybe he'll adopt me.
+19	coby	0	twilight Edward, stop. Her blood is clean. You're killing her. Stop. Find the will.
+19	Michael	0	twilight Edward, stop. Her blood is clean. You're killing her. Stop. Find the will.
+20	coby	0	twin peaks She's my cousin... but doesn't she look almost exactly like Laura Palmer?
+20	Michael	2	twin peaks She's my cousin... but doesn't she look almost exactly like Laura Palmer?
+21	coby	3	twin peaks Wow, Bob, Wow. Fire walk with me.
+21	Michael	3	twin peaks Wow, Bob, Wow. Fire walk with me.
+22	coby	5	twin peaks You know, there's only one problem with you: you're perfect.
+22	Michael	4	twin peaks You know, there's only one problem with you: you're perfect.
+23	coby	0	twin peaks: fire walk with me If I had a nickel for every cigarette your mom smoked, I'd be dead.
+23	Michael	1	twin peaks: fire walk with me If I had a nickel for every cigarette your mom smoked, I'd be dead.
+24	coby	0	twin peaks: fire walk with me When this kind of fire starts, it is very hard to put out. The tender boughs of innocence burn first, and the wind rises, and then all goodness is in jeopardy.
+24	Michael	0	twin peaks: fire walk with me When this kind of fire starts, it is very hard to put out. The tender boughs of innocence burn first, and the wind rises, and then all goodness is in jeopardy.
+25	coby	0	twin peaks: fire walk with me Now, her name *is* Irene and it *is* night. Don't take it any further than that. There's nothin' good about it.
+25	Michael	0	twin peaks: fire walk with me Now, her name *is* Irene and it *is* night. Don't take it any further than that. There's nothin' good about it.
+26	coby	3	twin peaks: fire walk with me Hey, slow pokes... Guess what? There's no tomorrow... Know why, baby? 'Cause it'll never get here.
+26	Michael	3	twin peaks: fire walk with me Hey, slow pokes... Guess what? There's no tomorrow... Know why, baby? 'Cause it'll never get here.
+27	coby	0	twin peaks: fire walk with me It was a dream! We live inside a dream!
+27	Michael	0	twin peaks: fire walk with me It was a dream! We live inside a dream!
+28	coby	0	twins If you're lying to me, I'll be back!
+28	Michael	2	twins If you're lying to me, I'll be back!
+29	coby	0	two for the money Oh man... You better hold on to the coin you flipped. Because this game keeps up like this, I'm going to have to borrow it.
+29	Michael	0	two for the money Oh man... You better hold on to the coin you flipped. Because this game keeps up like this, I'm going to have to borrow it.
+30	coby	2	u turn You've been a bad girl, Grace!
+30	Michael	4	u turn You've been a bad girl, Grace!
+31	coby	1	u turn Your lies are old but you tell them pretty good.
+31	Michael	1	u turn Your lies are old but you tell them pretty good.
+32	coby	5	u turn Bye, Mister. Don't go nowhere without me. I wanna have your love child.
+32	Michael	4	u turn Bye, Mister. Don't go nowhere without me. I wanna have your love child.
+33	coby	2	u turn Come here. You know what I wanna do? I wanna hang drapes...
+33	Michael	2	u turn Come here. You know what I wanna do? I wanna hang drapes...
+34	coby	4	u turn I bet right now, you don't know if you want to kill me... or fuck me.
+34	Michael	5	u turn I bet right now, you don't know if you want to kill me... or fuck me.
+35	coby	4	u turn And here I made you all hot and sweaty...
+35	Michael	4	u turn And here I made you all hot and sweaty...
+36	coby	1	u turn Now you can fuckin' take it, or you can fuckin' leave it.
+36	Michael	1	u turn Now you can fuckin' take it, or you can fuckin' leave it.
+37	coby	2	unbreakable They say this one has a surprise ending.
+37	Michael	2	unbreakable They say this one has a surprise ending.
+38	coby	3	unbreakable This is an art gallery, my friend, and this is a piece of art.
+38	Michael	2	unbreakable This is an art gallery, my friend, and this is a piece of art.
+39	coby	0	unbreakable You'd better not be back there jacking off to the Japanese comics, I swear to God...
+39	Michael	2	unbreakable You'd better not be back there jacking off to the Japanese comics, I swear to God...
+40	coby	3	under fire I like you people, but you are sentimental shits! You fall in love with the poets; the poets fall in love with the Marxists; the Marxists fall in love with themselves. The country falls in love with the rhetoric, and in the end we are stuck with tyrants.
+40	Michael	1	under fire I like you people, but you are sentimental shits! You fall in love with the poets; the poets fall in love with the Marxists; the Marxists fall in love with themselves. The country falls in love with the rhetoric, and in the end we are stuck with tyrants.
+41	coby	0	unforgiven You know how women lie.
+41	Michael	1	unforgiven You know how women lie.
+42	coby	5	up I was hiding under your porch because I love you.
+42	Michael	4	up I was hiding under your porch because I love you.
+43	coby	5	up in the air This is pretty fucking sexy.
+43	Michael	4	up in the air This is pretty fucking sexy.
+44	coby	5	up in the air You're so pretty. You're exactly what I want to look like in fifteen years.
+44	Michael	3	up in the air You're so pretty. You're exactly what I want to look like in fifteen years.
+45	coby	0	up in the air Please, for the love of God, can I fire the next one.
+45	Michael	0	up in the air Please, for the love of God, can I fire the next one.
+46	coby	1	v for vendetta Tell me... do you like music, Mr. Finch?
+46	Michael	2	v for vendetta Tell me... do you like music, Mr. Finch?
+47	coby	0	v for vendetta England prevails because *I* say it does!
+47	Michael	0	v for vendetta England prevails because *I* say it does!
+48	coby	0	v for vendetta It seems strange that my life should end in such a terrible place, but for three years I had roses, and apologized to no one.
+48	Michael	0	v for vendetta It seems strange that my life should end in such a terrible place, but for three years I had roses, and apologized to no one.
+49	coby	1	vanilla sky Don't you know that when you sleep with someone, your body makes a promise whether you do or not.
+49	Michael	1	vanilla sky Don't you know that when you sleep with someone, your body makes a promise whether you do or not.
+50	coby	0	vanilla sky You'll be meeting Rebecca Dearborn, my personal role model.
+50	Michael	0	vanilla sky You'll be meeting Rebecca Dearborn, my personal role model.
+51	coby	0	vanilla sky I'll tell you in another life, when we are both cats.
+51	Michael	0	vanilla sky I'll tell you in another life, when we are both cats.
+52	coby	2	vanilla sky Forgive me, I'm blowing your mind.
+52	Michael	2	vanilla sky Forgive me, I'm blowing your mind.
+53	coby	3	vanilla sky Do you love me? I mean really love me. Because if you don't... I'll just have to kill you.
+53	Michael	4	vanilla sky Do you love me? I mean really love me. Because if you don't... I'll just have to kill you.
+54	coby	4	vanilla sky Don't ever say that word. I will never come over and bring you chicken soup and fuck your brains out again.
+54	Michael	4	vanilla sky Don't ever say that word. I will never come over and bring you chicken soup and fuck your brains out again.
+55	coby	0	vanilla sky I think she's the saddest girl to ever to hold a martini.
+55	Michael	0	vanilla sky I think she's the saddest girl to ever to hold a martini.
+56	coby	0	vanilla sky The little things... there's nothing bigger, is there?
+56	Michael	0	vanilla sky The little things... there's nothing bigger, is there?
+57	coby	3	vanilla sky Julie Gianni is your fuck buddy?
+57	Michael	2	vanilla sky Julie Gianni is your fuck buddy?
+58	coby	0	vanilla sky Four times... it means something, David.
+58	Michael	2	vanilla sky Four times... it means something, David.
+59	coby	1	vanilla sky I good you bid evening.
+59	Michael	1	vanilla sky I good you bid evening.
+60	coby	0	vertigo Only one is a wanderer; two together are always going somewhere.
+60	Michael	0	vertigo Only one is a wanderer; two together are always going somewhere.
+61	coby	2	vertigo Give me your hand. Give me your hand.
+61	Michael	2	vertigo Give me your hand. Give me your hand.
+62	coby	1	village You are fearless in a way that I shall never know.
+62	Michael	2	village You are fearless in a way that I shall never know.
+63	coby	0	village My sister has found love... again.
+63	Michael	0	village My sister has found love... again.
+64	coby	5	village Good afternoon, Lucius. I wanted to... tell you something.  I love you, Lucius. I love you... like the day is long! I love you more than the sun and the moon together. And if you feel the same way, then we should not hide it any longer.  It's a gift, love is! We should be thankful! We should bellow it out with all the breath in our lungs! Thank you! Thank you!  THANK YOU!
+64	Michael	4	village Good afternoon, Lucius. I wanted to... tell you something.  I love you, Lucius. I love you... like the day is long! I love you more than the sun and the moon together. And if you feel the same way, then we should not hide it any longer.  It's a gift, love is! We should be thankful! We should bellow it out with all the breath in our lungs! Thank you! Thank you!  THANK YOU!
+65	coby	0	village I know why you denied my sister. When I was younger, you used to hold my arm when I walked. Then suddenly you stopped. One day, I even tripped in your presence and nearly fell. I was faking, of course, but still you did not hold me. Sometimes we don't do things we want to do so that others will not know we want to do them.
+65	Michael	1	village I know why you denied my sister. When I was younger, you used to hold my arm when I walked. Then suddenly you stopped. One day, I even tripped in your presence and nearly fell. I was faking, of course, but still you did not hold me. Sometimes we don't do things we want to do so that others will not know we want to do them.
+66	coby	2	walking tall You know what my new favorite sound is going to be? The sound of you screaming like a bitch!
+66	Michael	1	walking tall You know what my new favorite sound is going to be? The sound of you screaming like a bitch!
+67	coby	2	walking tall I guess that changes our relationship a bit, huh?
+67	Michael	3	walking tall I guess that changes our relationship a bit, huh?
+68	coby	3	war of the worlds You keep your eyes only on me, you understand? Don't look down. Don't look around me. I'm taking you to the car and you're gonna want to look around... but you're not going to, are you?
+68	Michael	3	war of the worlds You keep your eyes only on me, you understand? Don't look down. Don't look around me. I'm taking you to the car and you're gonna want to look around... but you're not going to, are you?
+69	coby	1	war of the worlds You and me? I don't think we're on the same page.
+69	Michael	1	war of the worlds You and me? I don't think we're on the same page.
+70	coby	2	warm springs You're gonna do great things, Franklin. This place has identity now, a purpose.
+70	Michael	1	warm springs You're gonna do great things, Franklin. This place has identity now, a purpose.
+71	coby	0	watchmen Just a matter of time, I suppose.
+71	Michael	1	watchmen Just a matter of time, I suppose.
+72	coby	1	waxwork Would you like a closer look?
+72	Michael	2	waxwork Would you like a closer look?
+73	coby	1	waxwork Steak tartar? Ah, yes. Steak tartar.
+73	Michael	0	waxwork Steak tartar? Ah, yes. Steak tartar.
+74	coby	1	waxwork Raw meat. You do like raw meat?
+74	Michael	1	waxwork Raw meat. You do like raw meat?
+75	coby	3	white christmas You didn't expect me to come down in my bathrobe, did you?
+75	Michael	3	white christmas You didn't expect me to come down in my bathrobe, did you?
+76	coby	4	white squall I think I'm gonna choke on feel good.
+76	Michael	2	white squall I think I'm gonna choke on feel good.
+77	coby	3	who framed roger rabbit Roger, darling. I want you to know I love you. I've loved you more than any woman's ever loved a rabbit.
+77	Michael	4	who framed roger rabbit Roger, darling. I want you to know I love you. I've loved you more than any woman's ever loved a rabbit.
+78	coby	3	who framed roger rabbit Is he always this funny, or only on days when he's wanted for murder?
+78	Michael	3	who framed roger rabbit Is he always this funny, or only on days when he's wanted for murder?
+79	coby	1	who framed roger rabbit Dabbling in watercolors, Eddie?
+79	Michael	1	who framed roger rabbit Dabbling in watercolors, Eddie?
+80	coby	1	who framed roger rabbit Keep it up, Eddie. You're killing 'em. You're slaying 'em! You're knocking 'em DEAD! 873123 Yeah, isn't it great?  Keep it up, Eddie... you're killing 'em, you're slayin' 'em, you're knockin' 'em dead.
+80	Michael	0	who framed roger rabbit Keep it up, Eddie. You're killing 'em. You're slaying 'em! You're knocking 'em DEAD!
+81	coby	3	wild at heart Those toenails dry yet, sweetheart? We got some dancin' to do.
+81	Michael	3	wild at heart Those toenails dry yet, sweetheart? We got some dancin' to do.
+82	coby	5	wild at heart Ya know, I sure do like a girl with nice tits like yours who talks tough and looks like she can fuck like a bunny. Do you fuck like that? Cause if ya do, I'll fuck ya good. Like a big ol' jackrabbit bunny, jump all around that hole. Bobby Peru don't come up for air.
+82	Michael	4	wild at heart Ya know, I sure do like a girl with nice tits like yours who talks tough and looks like she can fuck like a bunny. Do you fuck like that? Cause if ya do, I'll fuck ya good. Like a big ol' jackrabbit bunny, jump all around that hole. Bobby Peru don't come up for air.
+83	coby	2	wild at heart That ain't never will happen, baby. Least not in our lifetime.
+83	Michael	2	wild at heart That ain't never will happen, baby. Least not in our lifetime.
+84	coby	2	wild things Can I play too? Or is it just for boys?
+84	Michael	3	wild things Can I play too? Or is it just for boys?
+85	coby	1	wild things So you're the new chicken licker.
+85	Michael	1	wild things So you're the new chicken licker.
+86	coby	0	wild things No little bitch could ever make me cum.
+86	Michael	0	wild things No little bitch could ever make me cum.
+87	coby	1	wild wild west Never drum on a white lady's boobies at a big redneck dance. Got it.
+87	Michael	1	wild wild west Never drum on a white lady's boobies at a big redneck dance. Got it.
+88	coby	2	witness What you take into your hand, you take into your heart.
+88	Michael	2	witness What you take into your hand, you take into your heart.
+89	coby	3	you can count on me You know, if I were you, I'd be a little nervous about firing somebody I'd just had an affair with, okay?
+89	Michael	1	you can count on me You know, if I were you, I'd be a little nervous about firing somebody I'd just had an affair with, okay?
+90	coby	0	you can count on me Yeah, this is the haute cuisine of garments.
+90	Michael	0	you can count on me Yeah, this is the haute cuisine of garments.
+91	coby	2	you've got mail I always take a relationship to the next level. If that works out, I take it to the next level after that, until I finally reach that level when it becomes absolutely necessary for me to leave.
+91	Michael	1	you've got mail I always take a relationship to the next level. If that works out, I take it to the next level after that, until I finally reach that level when it becomes absolutely necessary for me to leave.
+92	coby	3	you've got mail Kiss me, I'm going to be your wicked step mother.
+92	Michael	4	you've got mail Kiss me, I'm going to be your wicked step mother.
+93	coby	0	you've got mail I like Patricia. I *love* Patricia. Patricia makes COFFEE nervous.
+93	Michael	1	you've got mail I like Patricia. I *love* Patricia. Patricia makes COFFEE nervous.
+94	coby	1	you've got mail Oh, no, she's beautiful, but she's a pill.
+94	Michael	2	you've got mail Oh, no, she's beautiful, but she's a pill.
+95	coby	1	you've got mail Kevin, this is possibly the most adorable creature I've ever been in contact with, and if she turns out to be as good looking as a mailbox... I would be crazy enough to turn my life upside down and marry her.
+95	Michael	1	you've got mail Kevin, this is possibly the most adorable creature I've ever been in contact with, and if she turns out to be as good looking as a mailbox... I would be crazy enough to turn my life upside down and marry her.
+96	coby	1	zerophilia You're gonna' have a great time with her tonight. Just be yourself... mostly.
+96	Michael	1	zerophilia You're gonna' have a great time with her tonight. Just be yourself... mostly.
+97	coby	2	wild things I think we just need to get wasted.
+97	Michael	2	wild things I think we just need to get wasted.
+98	coby	0	u turn Women say they don't want to be taken like, really taken -- that's bullshit -- they do.
+98	Michael	0	u turn Women say they don't want to be taken like, really taken -- that's bullshit -- they do.
+99	coby	0	u turn Well, he offered, and I just couldn't refuse.
+99	Michael	2	u turn Well, he offered, and I just couldn't refuse.
+100	coby	0	heavy metal She's sleeping, but only I can awaken her.
+100	Michael	0	heavy metal She's sleeping, but only I can awaken her.
+101	coby	1	psycho Look, this isn't much, but it might make you feel a little better.
+101	Michael	1	psycho Look, this isn't much, but it might make you feel a little better.
+102	coby	2	pitch black Well, guess if it was trickeration he'd just do me, huh?
+102	Michael	3	pitch black Well, guess if it was trickeration he'd just do me, huh?
+103	coby	1	pitch black Okay, maybe that's a good thing.
+103	Michael	1	pitch black Okay, maybe that's a good thing.
+104	coby	1	get shorty I need you to do me a favor.
+104	Michael	1	get shorty I need you to do me a favor.
+105	coby	4	four rooms You look so much more attractive when you're self- assured.
+105	Michael	4	four rooms You look so much more attractive when you're self- assured.
+106	coby	2	four rooms You always gotta get the last word, don't you?
+106	Michael	3	four rooms You always gotta get the last word, don't you?
+107	coby	1	lord of the rings the two towers I would stay still, if I were you.
+107	Michael	1	lord of the rings the two towers I would stay still, if I were you.
+108	coby	1	jay and silent bob strike back Well what are you waiting for, bitch?
+108	Michael	0	jay and silent bob strike back Well what are you waiting for, bitch?
+109	coby	1	interview with the vampire: the vampire chronicles Do what you want with it.
+109	Michael	1	interview with the vampire: the vampire chronicles Do what you want with it.
+110	coby	2	10 things i hate about you You don't strike me as the type that would ask permission.
+110	Michael	2	10 things i hate about you You don't strike me as the type that would ask permission.
+111	coby	3	10 things i hate about you I'd like to call your attention to Patrick Verona's stunning bad-ass look of 1995 ---
+111	Michael	1	10 things i hate about you I'd like to call your attention to Patrick Verona's stunning bad-ass look of 1995 ---
+112	coby	1	the wizard of oz She brings you good news.
+112	Michael	0	the wizard of oz She brings you good news.
+113	coby	1	basic instinct I went over to your place.
+113	Michael	1	basic instinct I went over to your place.
+114	coby	1	austin powers: international man of mystery Listen, Vanessa, I'm a swinger... That's what I do, I swing.
+114	Michael	3	austin powers: international man of mystery Listen, Vanessa, I'm a swinger... That's what I do, I swing.
+115	coby	0	a nightmare on elm street: the dream child In the dream, she was standing in a room.
+115	Michael	0	a nightmare on elm street: the dream child In the dream, she was standing in a room.
+116	coby	2	american pie I do like your dirty magazines.
+116	Michael	2	american pie I do like your dirty magazines.
+117	coby	1	american pie You mean like, strip strip?
+117	Michael	4	american pie You mean like, strip strip?
+118	coby	5	kids Suck my dick, Suck my dick.
+118	Michael	2	kids Suck my dick, Suck my dick.
+119	coby	3	titanic Hello girls, I was hoping I'd catch you at tea.
+119	Michael	3	titanic Hello girls, I was hoping I'd catch you at tea.
+120	coby	2	mumford It's nice to meet you, Mrs. Cook.
+120	Michael	3	mumford It's nice to meet you, Mrs. Cook.
+121	coby	2	eternal sunshine of the spotless mind See, I wouldn't think that about you.
+121	Michael	2	eternal sunshine of the spotless mind See, I wouldn't think that about you.
+122	coby	1	the man who wasn't there ...What kind of man are you?
+122	Michael	3	the man who wasn't there ...What kind of man are you?
+123	coby	4	the wedding date Or mmm--  Gorgeous, I was insane to let you go!
+123	Michael	4	the wedding date Or mmm--  Gorgeous, I was insane to let you go!
+124	coby	4	the wedding date I hear that make-up sex is the best kind.
+124	Michael	3	the wedding date I hear that make-up sex is the best kind.
+125	coby	4	casablanca But what a fool I am talking to a beautiful woman about another man.
+125	Michael	5	casablanca But what a fool I am talking to a beautiful woman about another man.
+126	coby	1	bachelor party Where's the women, man?
+126	Michael	1	bachelor party Where's the women, man?
+127	coby	0	romeo & juliet That may be, sir, when I may be a wife.
+127	Michael	2	romeo & juliet That may be, sir, when I may be a wife.
+128	coby	2	romeo & juliet Shall I be married then tomorrow morning?
+128	Michael	1	romeo & juliet Shall I be married then tomorrow morning?
+129	coby	0	get carter Keep your pants on.
+129	Michael	2	get carter Keep your pants on.
+130	coby	3	get carter I bet you could use a drink, could you, Eric?
+130	Michael	3	get carter I bet you could use a drink, could you, Eric?
+131	coby	3	bringing out the dead I make her wait and it drives her crazy.
+131	Michael	4	bringing out the dead I make her wait and it drives her crazy.
+132	coby	1	twilight That was the first night I dreamed of Edward Cullen.. .
+132	Michael	1	twilight That was the first night I dreamed of Edward Cullen.
+133	coby	2	twilight Nice house you have here.
+133	Michael	2	twilight Nice house you have here.
+134	coby	0	twilight We left you a message.
+134	Michael	0	twilight We left you a message.
+135	coby	1	star trek iii: the search for spock I know this will come as a pleasant surprise for you...
+135	Michael	1	star trek iii: the search for spock I know this will come as a pleasant surprise for you...
+136	coby	2	pulp fiction Now I'm gonna take a wild guess here: you're Brett, right?
+136	Michael	1	pulp fiction Now I'm gonna take a wild guess here: you're Brett, right?
+137	coby	1	a hard day's night Ever seen one of these before?
+137	Michael	1	a hard day's night Ever seen one of these before?
+138	coby	1	fantastic mr fox Why'd you have to get us into this, Foxy?
+138	Michael	0	fantastic mr fox Why'd you have to get us into this, Foxy?
+139	coby	4	spanglish You know, I always think about when you...Oh, there's no point.
+139	Michael	3	spanglish You know, I always think about when you...Oh, there's no point.
+140	coby	3	being john malkovich I'm sure he's a better lover than I ever was.
+140	Michael	3	being john malkovich I'm sure he's a better lover than I ever was.
+141	coby	2	being john malkovich I moved his arm across your girlfriend's glorious tit.
+141	Michael	1	being john malkovich I moved his arm across your girlfriend's glorious tit.
+142	coby	4	being john malkovich This is my type of chick.
+142	Michael	3	being john malkovich This is my type of chick.
+143	coby	1	the three musketeers However, if you would like to entertain me with a story, I'm eager to hear it.
+143	Michael	2	the three musketeers However, if you would like to entertain me with a story, I'm eager to hear it.
+144	coby	1	american gangster I want to know everyone you've met for the last twenty years.
+144	Michael	0	american gangster I want to know everyone you've met for the last twenty years.
+145	coby	2	twin peaks Was I wearing something of yours and you got mad at me?
+145	Michael	2	twin peaks Was I wearing something of yours and you got mad at me?
+146	coby	0	the american president Sydney, seldom does a day go by that I'm not burned in effigy.
+146	Michael	0	the american president Sydney, seldom does a day go by that I'm not burned in effigy.
+147	coby	1	the american president You know, I'm a little nervous.
+147	Michael	1	the american president You know, I'm a little nervous.
+148	coby	1	sideways You drop this bombshell on me.
+148	Michael	1	sideways You drop this bombshell on me.
+149	coby	1	sideways These girls want to party.
+149	Michael	3	sideways These girls want to party.
+150	coby	2	sideways Oh, just that he loves her.
+150	Michael	2	sideways Oh, just that he loves her.
+151	coby	3	le grand bleu Come on, suck your finger, you'll be seeing mermaids everywhere!
+151	Michael	4	le grand bleu Come on, suck your finger, you'll be seeing mermaids everywhere!
+152	coby	0	thirteen days Feels good to win, doesn't it?
+152	Michael	1	thirteen days Feels good to win, doesn't it?
+153	coby	0	suburbia It's an honest question.
+153	Michael	0	suburbia It's an honest question.
+154	coby	3	the shining Come and play with us.
+154	Michael	3	the shining Come and play with us.
+155	coby	1	shrek Oh, that is so sweet.
+155	Michael	1	shrek Oh, that is so sweet.
+156	coby	0	shrek I believe it's healthy to get to know someone over a long period of time.
+156	Michael	1	shrek I believe it's healthy to get to know someone over a long period of time.
+157	coby	2	yes man Will you do it for me Carl?
+157	Michael	2	yes man Will you do it for me Carl?
+158	coby	0	blood simple So, uh... this wouldn't interest you.
+158	Michael	3	blood simple So, uh... this wouldn't interest you.
+159	coby	2	sweet smell of success My curiosity is killing me; what are you so rambunctious about tonight?
+159	Michael	3	sweet smell of success My curiosity is killing me; what are you so rambunctious about tonight?
+160	coby	1	sweet smell of success I'm feeling too good to fight with you, but that isn't what I said - I said you snoop.
+160	Michael	3	sweet smell of success I'm feeling too good to fight with you, but that isn't what I said - I said you snoop.
+161	coby	2	donnie darko Hey, Cherita... want a cigarette?
+161	Michael	2	donnie darko Hey, Cherita... want a cigarette?
+162	coby	2	shakespeare in love Will you read it for me?
+162	Michael	4	shakespeare in love Will you read it for me?
+163	coby	2	true believer So what've you been up to since then?
+163	Michael	2	true believer So what've you been up to since then?
+164	coby	3	blue velvet You can kiss them if you want.
+164	Michael	3	blue velvet You can kiss them if you want.
+165	coby	5	almost famous And I'm still in love with you Leslie.
+165	Michael	4	almost famous And I'm still in love with you Leslie.
+166	coby	5	true romance I like you, Clarence. Always have. Always will.
+166	Michael	5	true romance I like you, Clarence. Always have. Always will.
+167	coby	0	true romance I mean look at her. It looks like she fell off the ugly tree and hit every branch on the way down.
+167	Michael	0	true romance I mean look at her. It looks like she fell off the ugly tree and hit every branch on the way down.
+168	coby	5	true romance I eat the pussy, I eat the butt, I eat every motherfuckin' thang.
+168	Michael	4	true romance I eat the pussy, I eat the butt, I eat every motherfuckin' thang.
+169	coby	0	true lies What can I say? I'm a spy.
+169	Michael	1	true lies What can I say? I'm a spy.
+170	coby	0	true lies So far, this is not blowing my skirt up, gentlemen.
+170	Michael	0	true lies So far, this is not blowing my skirt up, gentlemen.
+171	coby	5	trouble in paradise Darling, remember, you are Gaston Monescu. You are a crook. I want you as a crook. I love you as a crook. I worship you as a crook. Steal, swindle, rob. Oh, but don't become one of those useless, good-for-nothing gigolos.
+171	Michael	5	trouble in paradise Darling, remember, you are Gaston Monescu. You are a crook. I want you as a crook. I love you as a crook. I worship you as a crook. Steal, swindle, rob. Oh, but don't become one of those useless, good-for-nothing gigolos.
+172	coby	4	transformers the movie I would have waited an eternity for this. It's over, Prime.
+172	Michael	3	transformers the movie I would have waited an eternity for this. It's over, Prime.
+173	coby	2	transformers the movie Why settle for a peek, Daniel, when you can see everything from "Lookout Mountain"?
+173	Michael	2	transformers the movie Why settle for a peek, Daniel, when you can see everything from "Lookout Mountain"?
+174	coby	3	titanic You gonna cut her meat for her too there, Cal?
+174	Michael	2	titanic You gonna cut her meat for her too there, Cal?
+175	coby	4	titanic I'll never let go, Jack. I promise.
+175	Michael	4	titanic I'll never let go, Jack. I promise.
+176	coby	3	titanic You shine up like a new penny.
+176	Michael	3	titanic You shine up like a new penny.
+177	coby	3	titanic What? Do you think a first class girl can't drink?
+177	Michael	5	titanic What? Do you think a first class girl can't drink?
+178	coby	3	titanic So, you wanna go to a real party?
+178	Michael	4	titanic So, you wanna go to a real party?
+179	coby	0	tin cup Why do men always insist on measuring their dicks?
+179	Michael	1	tin cup Why do men always insist on measuring their dicks?
+180	coby	1	tin cup Oh, you amuse me, Roy, but I'm the only woman in America born after World War II that thinks astrology's a crock of shit.
+180	Michael	1	tin cup Oh, you amuse me, Roy, but I'm the only woman in America born after World War II that thinks astrology's a crock of shit.
+181	coby	3	tin cup Does my inner child need a spanking?
+181	Michael	5	tin cup Does my inner child need a spanking?
+182	coby	4	thx 1138 Everything will be all right. You are in my hands. I am here to protect you. You have nowhere to go. You have nowhere to go.
+182	Michael	4	thx 1138 Everything will be all right. You are in my hands. I am here to protect you. You have nowhere to go. You have nowhere to go.
+183	coby	2	thunderheart Come on up and watch TV.
+183	Michael	2	thunderheart Come on up and watch TV.
+184	coby	1	this boy's life Why, I'm so scared, I'm so scared, I'm so scared, wo-o-o!
+184	Michael	1	this boy's life Why, I'm so scared, I'm so scared, I'm so scared, wo-o-o!
+185	coby	0	this boy's life Here I am, you lucky people!
+185	Michael	0	this boy's life Here I am, you lucky people!
+186	coby	1	there's something about mary I couldn't believe that she knew my name. Some of my best friends didn't know my name.
+186	Michael	1	there's something about mary I couldn't believe that she knew my name. Some of my best friends didn't know my name.
+187	coby	4	there's something about mary We agreed I wouldn't fuck you, and you wouldn't fuck me until we got this fuck  outta the fuckin' picture!
+187	Michael	3	there's something about mary We agreed I wouldn't fuck you, and you wouldn't fuck me until we got this fuck  outta the fuckin' picture!
+188	coby	1	thelma & louise If she calls, just be gentle, you know? Like you're really happy to hear from her. Like you miss her. Women love that shit.
+188	Michael	1	thelma & louise If she calls, just be gentle, you know? Like you're really happy to hear from her. Like you miss her. Women love that shit.
+189	coby	2	thelma & louise Louise, no matter what happens, I'm glad I came with you.
+189	Michael	3	thelma & louise Louise, no matter what happens, I'm glad I came with you.
+190	coby	3	Anchorman I don't know how to put this, but... I'm kind of a big deal.
+190	Michael	3	Anchorman I don't know how to put this, but... I'm kind of a big deal.
+191	coby	3	As Good As It Gets You make me want to be a better man.
+191	Michael	4	As Good As It Gets You make me want to be a better man.
+192	coby	5	A Beautiful Mind I don't exactly know what I am required to say in order for you to have intercourse with me. But could we assume that I said all that? I mean, essentially we are talking about fluid exchange, right? So could we just go straight to the sex?
+192	Michael	5	A Beautiful Mind I don't exactly know what I am required to say in order for you to have intercourse with me. But could we assume that I said all that? I mean, essentially we are talking about fluid exchange, right? So could we just go straight to the sex?
+193	coby	2	Internal Affairs That's a nice dress — where's the rest of it?
+193	Michael	2	Internal Affairs That's a nice dress — where's the rest of it?
+194	coby	5	The Sure Thing   How would you like to have a sexual encounter so intense, it could conceivably change your political views?
+194	Michael	5	The Sure Thing   How would you like to have a sexual encounter so intense, it could conceivably change your political views?
+195	coby	5	Intolerable Cruelty Your husband had told me you were the most beautiful woman he'd ever met. I didn't expect the most beautiful woman I'd ever met.
+195	Michael	5	Intolerable Cruelty Your husband had told me you were the most beautiful woman he'd ever met. I didn't expect the most beautiful woman I'd ever met.
+196	coby	5	the last boy scout She's hot, Joe. She rates a three on my finger scale. That means I'd cut off three of my fingers if God would let me fuck her.
+196	Michael	4	the last boy scout She's hot, Joe. She rates a three on my finger scale. That means I'd cut off three of my fingers if God would let me fuck her.
+197	coby	5	up in the air This is pretty fucking sexy.
+197	Michael	4	up in the air This is pretty fucking sexy.
+198	coby	0	the big lebowski That's right, Dude, they peed on your fucking rug.
+198	Michael	0	the big lebowski That's right, Dude, they peed on your fucking rug.
+199	coby	0	the big lebowski Walter, I love you, but sooner or later, you're going to have to face the fact you're a goddamn moron.
+199	Michael	2	the big lebowski Walter, I love you, but sooner or later, you're going to have to face the fact you're a goddamn moron.
+200	coby	3	the apartment Ya know, I used to live like Robinson Crusoe; I mean, shipwrecked among 8 million people. And then one day I saw a footprint in the sand, and there you were.
+200	Michael	4	the apartment Ya know, I used to live like Robinson Crusoe; I mean, shipwrecked among 8 million people. And then one day I saw a footprint in the sand, and there you were.
+201	coby	0	the adventures of ford fairlane Clint Eastwood... I fucked 'im.
+201	Michael	1	the adventures of ford fairlane Clint Eastwood... I fucked 'im.
+202	coby	5	terminator I came across time for you, Sarah. I love you. I always have.
+202	Michael	5	terminator I came across time for you, Sarah. I love you. I always have.
+203	coby	2	terminator Guard it for me, big buns.
+203	Michael	2	terminator Guard it for me, big buns.
+204	coby	0	taxi driver I first saw her at Palantine Campaign headquarters at 63rd and Broadway. She was wearing a white dress. She appeared like an angel. Out of this filthy mess, she is alone. They... cannot... touch... her.
+204	Michael	1	taxi driver I first saw her at Palantine Campaign headquarters at 63rd and Broadway. She was wearing a white dress. She appeared like an angel. Out of this filthy mess, she is alone. They... cannot... touch... her.
+205	coby	1	synecdoche, new york I know how to do the play now. It will all take place over the course of one day. And that day will be the day before you died. That day was the happiest day of my life. Then I'll be able to live it forever. See you soon.
+205	Michael	1	synecdoche, new york I know how to do the play now. It will all take place over the course of one day. And that day will be the day before you died. That day was the happiest day of my life. Then I'll be able to live it forever. See you soon.
+206	coby	5	synecdoche, new york Hazel, you've been a part of me forever. Don't you know that? I breathe your name in every exhalation.
+206	Michael	5	synecdoche, new york Hazel, you've been a part of me forever. Don't you know that? I breathe your name in every exhalation.
+207	coby	0	swingers They went with someone who had more theme-park experience.
+207	Michael	0	swingers They went with someone who had more theme-park experience.
+208	coby	0	superbad Calm down, calm down. She likes you. She wants to suck on your penis. That's a good thing. It's the best.
+208	Michael	0	superbad Calm down, calm down. She likes you. She wants to suck on your penis. That's a good thing. It's the best.
+209	coby	0	sugar & spice Jack Bartlett. Jack Bartlett! Jack Bartlett. Is Jack Bartlett interested in me?
+209	Michael	1	sugar & spice Jack Bartlett. Jack Bartlett! Jack Bartlett. Is Jack Bartlett interested in me?
+210	coby	1	south park Ow! That Hurt, you butt licker!
+210	Michael	2	south park Ow! That Hurt, you butt licker!
+211	coby	2	something's gotta give Harry, your heart attack could be the best thing that's ever happened to me!
+211	Michael	2	something's gotta give Harry, your heart attack could be the best thing that's ever happened to me!
+212	coby	4	something's gotta give Erica, you are a woman to love.
+212	Michael	4	something's gotta give Erica, you are a woman to love.
+213	coby	3	someone to watch over me Let me watch over you tonight.
+213	Michael	3	someone to watch over me Let me watch over you tonight.
+214	coby	1	so i married an axe murderer Lighten up, Charlie. You've got a pickle up your ass again.
+214	Michael	2	so i married an axe murderer Lighten up, Charlie. You've got a pickle up your ass again.
+215	coby	0	sling blade Yes, ma'am. I've killed Doyle Hargraves with a lawnmower blade. Yes, ma'am, I'm right sure of it. I hit him two good whacks in the head with it. That second one just plum near cut his head in two... It's a lil' ol' white house on the corner of Vine Street and some other street. There's a pick-up truck out front that says "Doyle Hargraves Construction" on it. Doyle said besides sending the police, you might wanna send an ambulance or a "hearst". I'll be sitting here, waiting on ye.
+215	Michael	0	sling blade Yes, ma'am. I've killed Doyle Hargraves with a lawnmower blade. Yes, ma'am, I'm right sure of it. I hit him two good whacks in the head with it. That second one just plum near cut his head in two... It's a lil' ol' white house on the corner of Vine Street and some other street. There's a pick-up truck out front that says "Doyle Hargraves Construction" on it. Doyle said besides sending the police, you might wanna send an ambulance or a "hearst". I'll be sitting here, waiting on ye.
+216	coby	2	sleepless in seattle Sam... It's nice to meet you.
+216	Michael	4	sleepless in seattle Sam... It's nice to meet you.
+217	coby	5	scarface You're good-looking. You got a beautiful body, beautiful legs, beautiful face, all these guys in love with you. Only you've got a look in your eye like you haven't been fucked in a year.
+217	Michael	5	scarface You're good-looking. You got a beautiful body, beautiful legs, beautiful face, all these guys in love with you. Only you've got a look in your eye like you haven't been fucked in a year.
+218	coby	5	shakespeare in love I love you, Will, beyond poetry.
+218	Michael	5	shakespeare in love I love you, Will, beyond poetry.
+219	coby	2	sex, lies and videotape You never used to say the word "fucking."
+219	Michael	3	sex, lies and videotape You never used to say the word "fucking."
+220	coby	0	sex, lies and videotape I think that um... I think that sex is overrated. I think that people place far too much importance on it, and I think that stuff about women wantin' it just as bad as men is crap. I mean I think that women want it, I just don't think that they want it for the same reason that men think they do.
+220	Michael	0	sex, lies and videotape I think that um... I think that sex is overrated. I think that people place far too much importance on it, and I think that stuff about women wantin' it just as bad as men is crap. I mean I think that women want it, I just don't think that they want it for the same reason that men think they do.
+221	coby	5	sex, lies and videotape You know, I'd like to do it at your house sometime. I must admit, the idea of doing it in my sister's bed gives me a perverse thrill.
+221	Michael	5	sex, lies and videotape You know, I'd like to do it at your house sometime. I must admit, the idea of doing it in my sister's bed gives me a perverse thrill.
+222	coby	2	sense and sensibility He is the kindest and best of men.
+222	Michael	2	sense and sensibility He is the kindest and best of men.
+223	coby	0	rushmore Tell that stupid Mick he just made my list of things to do today.
+223	Michael	1	rushmore Tell that stupid Mick he just made my list of things to do today.
+224	coby	3	rush hour 2 I'm gonna pretend you a man. A very beautiful man with a great body that I'd like to take to the movies.
+224	Michael	3	rush hour 2 I'm gonna pretend you a man. A very beautiful man with a great body that I'd like to take to the movies.
+225	coby	4	runaway bride Look, I guarantee there'll be tough times. I guarantee that at some point, one or both of us is gonna want to get out of this thing. But I also guarantee that if I don't ask you to be mine, I'll regret it for the rest of my life, because I know, in my heart, you're the only one for me.
+225	Michael	4	runaway bride Look, I guarantee there'll be tough times. I guarantee that at some point, one or both of us is gonna want to get out of this thing. But I also guarantee that if I don't ask you to be mine, I'll regret it for the rest of my life, because I know, in my heart, you're the only one for me.
+226	coby	4	romeo & juliet A pretty piece of flesh I am!
+226	Michael	3	romeo & juliet A pretty piece of flesh I am!
+227	coby	1	romeo & juliet Romeo, thou art a villain.
+227	Michael	3	romeo & juliet Romeo, thou art a villain.
+228	coby	4	romeo & juliet My only love sprung from my only hate! Too early seen unknown, and known too late! Prodigious birth of love it is to me that I must love a loathed enemy.
+228	Michael	2	romeo & juliet My only love sprung from my only hate! Too early seen unknown, and known too late! Prodigious birth of love it is to me that I must love a loathed enemy.
+229	coby	4	romeo & juliet You kiss by the book.
+229	Michael	4	romeo & juliet You kiss by the book.
+230	coby	4	rocky I wanna kiss ya-ya don't have to kiss me back if ya don't feel like it.
+230	Michael	4	rocky I wanna kiss ya-ya don't have to kiss me back if ya don't feel like it.
+231	coby	2	revolutionary road Frank Wheeler, I think you're the most interesting person I've ever met.
+231	Michael	5	revolutionary road Frank Wheeler, I think you're the most interesting person I've ever met.
+232	coby	0	remember me He's in love with you. I've only ever seen him look at one other girl the way he looks at you, and she's a lot shorter and shares his DNA.
+232	Michael	1	remember me He's in love with you. I've only ever seen him look at one other girl the way he looks at you, and she's a lot shorter and shares his DNA.
+233	coby	2	rear window Well, if there's one thing I know, it's how to wear the proper clothes.
+233	Michael	2	rear window Well, if there's one thing I know, it's how to wear the proper clothes.
+234	coby	4	rear window I can hear you now: "Get out of my life, you wonderful woman. You're too good for me."
+234	Michael	4	rear window I can hear you now: "Get out of my life, you wonderful woman. You're too good for me."
+235	coby	3	raising arizona I"m in here on my knees, Ed, a free man proposing. Howdy, Kurt.
+235	Michael	3	raising arizona I"m in here on my knees, Ed, a free man proposing. Howdy, Kurt.
+236	coby	0	raging bull Shut up. You just shut up. I'll fucking take care of you later.
+236	Michael	0	raging bull Shut up. You just shut up. I'll fucking take care of you later.
+237	coby	3	quills You've already stolen my heart... as well as another more prominent organ, south of the Equator.
+237	Michael	5	quills You've already stolen my heart... as well as another more prominent organ, south of the Equator.
+238	coby	0	quills Your terrible secret revealed, you're a man after all.
+238	Michael	2	quills Your terrible secret revealed, you're a man after all.
+239	coby	5	purple rain Your lips would make a lollipop too happy.
+239	Michael	5	purple rain Your lips would make a lollipop too happy.
+240	coby	1	pretty woman Fifty bucks, Grandpa. For seventy-five, the wife can watch.
+240	Michael	3	pretty woman Fifty bucks, Grandpa. For seventy-five, the wife can watch.
+241	coby	5	point break I know Johnny. I know you want me so bad it's like acid in your mouth. But, not this time.
+241	Michael	5	point break I know Johnny. I know you want me so bad it's like acid in your mouth. But, not this time.
+242	coby	0	point break ...last time you had a feeling I had to kill a guy, and I hate that... It looks bad on my report.
+242	Michael	0	point break ...last time you had a feeling I had to kill a guy, and I hate that... It looks bad on my report.
+243	coby	0	pleasantville I could, like, kill a guy with these things.
+243	Michael	0	pleasantville I could, like, kill a guy with these things.
+244	coby	2	pleasantville It was amazing, Daph ... I'm like: "Well my Mom'll be out of town." And he's like "Well then, maybe we could-- you know ..." And I'm like "Yeah, sure." And he's like "Well, cool." I know, he's just so smart. I don't know. Maybe that black thing I just got. It is not slutty, Daph, it's cute. Well, "hello?" He's not coming over here to study ... I know. Well I'm jealous of you too sometimes.
+244	Michael	2	pleasantville It was amazing, Daph ... I'm like: "Well my Mom'll be out of town." And he's like "Well then, maybe we could-- you know ..." And I'm like "Yeah, sure." And he's like "Well, cool." I know, he's just so smart. I don't know. Maybe that black thing I just got. It is not slutty, Daph, it's cute. Well, "hello?" He's not coming over here to study ... I know. Well I'm jealous of you too sometimes.
+245	coby	1	pleasantville I did the slut thing, David. It got kinda old.
+245	Michael	1	pleasantville I did the slut thing, David. It got kinda old.
+246	coby	0	platinum blonde I've met some roughies in my time, but you are without a doubt the lowest excuse for a man I've ever had the misfortune to meet
+246	Michael	1	platinum blonde I've met some roughies in my time, but you are without a doubt the lowest excuse for a man I've ever had the misfortune to meet
+247	coby	3	pitch black Strong survival instinct. I admire that in a woman.
+247	Michael	4	pitch black Strong survival instinct. I admire that in a woman.
+248	coby	4	pirates of the caribbean dead man's chest One word love: curiosity. You long for freedom. You long to do what you want to do because you want it. To act on selfish impulse. You want to see what it's like. One day you won't be able to resist.
+248	Michael	4	pirates of the caribbean dead man's chest One word love: curiosity. You long for freedom. You long to do what you want to do because you want it. To act on selfish impulse. You want to see what it's like. One day you won't be able to resist.
+249	coby	2	pirates of the caribbean dead man's chest Jack...? Jack Sparrow? I can honestly say I'm glad to see you.
+249	Michael	2	pirates of the caribbean dead man's chest Jack...? Jack Sparrow? I can honestly say I'm glad to see you.
+250	coby	1	pirates of the caribbean dead man's chest My tremendous intuitive sense of the female creature informs me that you are troubled.
+250	Michael	4	pirates of the caribbean dead man's chest My tremendous intuitive sense of the female creature informs me that you are troubled.
